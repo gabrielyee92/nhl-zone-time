@@ -1,0 +1,5 @@
+streamlit>=1.50
+plotly>=6.0
+pandas>=2.2
+numpy>=1.26
+openpyxl>=3.1  # only needed by nhl_zone_excel.py, not by the dashboard
